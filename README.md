@@ -82,6 +82,21 @@ Sentiment-Analysis/
 
 ## Application Output
 
+<img width="1061" height="753" alt="Screenshot 2026-09-09 202925" src="https://github.com/user-attachments/assets/f5c426ce-f5ef-48bc-9de7-bb5bf61a860f" />
+
+
+The screenshot shows the Sentiment Analysis application successfully identifying a positive sentence.
+
+The user enters the sentence "The product is amazing." in the text box.
+The user clicks the Analyze Sentiment button.
+The Hugging Face DistilBERT model analyzes the given sentence.
+The application predicts the sentiment as Positive.
+The result is displayed in a green notification box.
+The output shows:
+Sentiment: POSITIVE
+Confidence: 99.99%
+The high confidence score indicates that the model is highly confident in its positive sentiment prediction.
+
 <img width="1020" height="736" alt="Screenshot 2026-09-09 201711" src="https://github.com/user-attachments/assets/a37c5206-4304-4339-9ca9-f58bcefe5c97" />
 
 The screenshot shows the working Sentiment Analysis web application built using Streamlit and Hugging Face.
