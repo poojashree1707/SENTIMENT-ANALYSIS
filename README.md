@@ -110,6 +110,12 @@ Sentiment: NEGATIVE
 Confidence: 99.97%
 The result is highlighted in a red notification box to clearly indicate the negative sentiment.
 
+### You can now view my Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  
+  Network URL: http://10.89.102.91:8501
+
 ## Conclusion
 
 This project demonstrates how Natural Language Processing and pre-trained Hugging Face models can be integrated with Streamlit to create a simple and interactive AI application.
