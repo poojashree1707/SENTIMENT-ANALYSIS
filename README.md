@@ -112,9 +112,7 @@ The result is highlighted in a red notification box to clearly indicate the nega
 
 ### You can now view my Streamlit app in your browser.
 
-  Local URL: http://localhost:8501
-  
-  Network URL: http://10.89.102.91:8501
+https://sentiment-analysis-fp4mm5sslnxd3f6opkqzsn.streamlit.app/
 
 ## Conclusion
 
